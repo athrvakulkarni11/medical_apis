@@ -4,3 +4,5 @@ pymupdf
 pdf2image
 python-multipart
 groq
+python-dotenv
+python-multipart
